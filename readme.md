@@ -15,3 +15,5 @@ YouTube Channel: Coming Soon!
 ## More Information
 
 Contact us at [aidroidtechus@gmail.com](mailto:aidroidtechus@gmail.com) or [help@aidroidtech.tk](mailto:help@aidroidtech.tk). (Second email may not work.)
+
+![Logo](/contents/images/AidroidLogoWhite.png)
