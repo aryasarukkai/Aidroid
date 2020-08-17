@@ -3,6 +3,15 @@ If you are wondering where the "more information" is, we don't have any more inf
 
 ## Links
 Old website: http://web.aidroidtechusa.repl.co/
+
 "beta" website: https://aidroidtechbeta.000webhostapp.com/
+
 Website (Coming Soon): https://aidroidtech.tk
-Github Website: 
+
+Github Website: https://aryasarukkai.github.io/Aidroid-Technologies/
+
+YouTube Channel: Coming Soon!
+
+## More Information
+
+Contact us at [aidroidtechus@gmail.com](mailto:aidroidtechus@gmail.com) or [help@aidroidtech.tk](mailto:help@aidroidtech.tk). (Second email may not work.)
